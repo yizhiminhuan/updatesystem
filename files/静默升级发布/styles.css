@@ -3966,3 +3966,51 @@
   width:65px;
   white-space:nowrap;
 }
+#u294 {
+  position:absolute;
+  left:705px;
+  top:114px;
+  width:160px;
+  height:22px;
+}
+#u294_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:160px;
+  height:22px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-decoration:none;
+  color:#000000;
+}
+#u294_input:disabled {
+  color:grayText;
+}
+#u295 {
+  position:absolute;
+  left:630px;
+  top:117px;
+  width:81px;
+  height:16px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:16px;
+}
+#u295_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:81px;
+  height:16px;
+}
+#u296 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:81px;
+  white-space:nowrap;
+}
